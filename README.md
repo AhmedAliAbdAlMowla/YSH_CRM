@@ -1,7 +1,7 @@
 #                                                                                  YSH_CRM
 ## Welcome! 👋
 This project is client management system website for [(YSH company )](https://youre-safe-here.webflow.io/),(USA-California),
-I developed the backend api for this website.
+I developed the backend api for this website 👨‍💻.
 ### Built with:
 <ul>
 <li class="has-line-data" data-line-start="15" data-line-end="16">Restful Api</li>
@@ -38,7 +38,7 @@ I developed the backend api for this website.
 <li class="has-line-data" data-line-start="16" data-line-end="17">add projects for clients</li>
 <li class="has-line-data" data-line-start="15" data-line-end="16">update/delete clients projects</li>
 <li class="has-line-data" data-line-start="19" data-line-end="20">add milestons for clients projects</li>
-  <li class="has-line-data" data-line-start="15" data-line-end="16">update/delete projects milestons</li>
+<li class="has-line-data" data-line-start="15" data-line-end="16">update/delete projects milestons</li>
 <li class="has-line-data" data-line-start="19" data-line-end="20">mark milestons is done for clients projects</li>
 <li class="has-line-data" data-line-start="17" data-line-end="18">create folders for any client</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">add files for any client</li>
@@ -57,8 +57,15 @@ I developed the backend api for this website.
 
 ### Swagger:
 
+![swagger](./design/YSH_CRM_swagger.png)
+
+
+### Project folders structure:
+
+![folders_structure](./design/YSH_CRM_folders_structure.png)
+
+### Source code is privet because is ownered to YSH company 🤷‍♂️.
+### You can see the some site pages in design folder😃.
 ## Author
-- LinkedIn - [@ahmed-ali-ahmed-abd-al-mowla](https://www.linkedin.com/in/ahmed-ali-ahmed-abd-al-mowla-630284158/)
+- LinkedIn - [@AhmedAliAhmedAbdAl-Mowla](https://www.linkedin.com/in/ahmed-ali-ahmed-abd-al-mowla-630284158/)
 
-
-it have feature to storage file in specific folder and create folder and download this file and add project for client and calculate what is milestone done and what is milestone not done and create client account and api have three role client , admin , super admin
